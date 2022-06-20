@@ -1,0 +1,14 @@
+{
+  "type": "code",
+  "modid": "morpheus",
+  "name": "Morpheus",
+  "author": "kuroneko1996",
+  "description": "Need only 50% sleepers to skip a night",
+  "side": "server",
+  "version": "1.0.0",
+  "gameversions": [ "1.16.5" ],
+  "dependencies": {
+	"game": "",
+	"survival": ""
+  }
+}
